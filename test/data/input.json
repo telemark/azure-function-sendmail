@@ -1,0 +1,19 @@
+{
+  "to": "<mail-to>",
+  "from": "mail-from",
+  "subject": "<subject>",
+  "text": "<text>",
+  "html": "<html> - optional",
+  "cc": "<mail-cc> - optional",
+  "bcc": "<mail-bcc> - optional",
+  "replyTo": "<mail-replyTo> - optional",
+  "attachments": [
+    {
+      "content": "Some base 64 encoded attachment content",
+      "filename": "some-attachment.txt",
+      "type": "plain/text",
+      "disposition": "attachment",
+      "content_id": "mytext"
+    }
+  ]
+}
