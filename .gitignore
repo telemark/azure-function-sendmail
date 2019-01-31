@@ -68,8 +68,9 @@ typings/
 # next.js build output
 .next
 
-# Lock
+# Local
 package-lock.json
+tst.json
 
 bin
 obj
