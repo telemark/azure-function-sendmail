@@ -46,6 +46,6 @@
     }
   },
   "dependencies": {
-    "@sendgrid/mail": "6.4.0"
+    "@sendgrid/mail": "7.3.0"
   }
 }
